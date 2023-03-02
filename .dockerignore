@@ -1,0 +1,5 @@
+__pycache__/
+.devcontainer/
+Dockerfile
+README.md
+main.py
